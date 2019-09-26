@@ -7,6 +7,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     TextView tv;
+    TextView tvw;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
